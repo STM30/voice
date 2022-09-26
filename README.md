@@ -1,6 +1,6 @@
-Corrected version because Use the [original](https://github.com/vlomme/Multi-Tacotron-Voice-Cloning) not work)
+Corrected version because [original](https://github.com/vlomme/Multi-Tacotron-Voice-Cloning) not work)
 
-Исправленная версия т.к Use the [оригинал](https://github.com/vlomme/Multi-Tacotron-Voice-Cloning) не работает)
+Исправленная версия т.к [оригинал](https://github.com/vlomme/Multi-Tacotron-Voice-Cloning) не работает)
 
 
 ## Quick start
